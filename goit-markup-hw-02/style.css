@@ -1,0 +1,51 @@
+button {
+  border: 0ch;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #2196f3;
+  color: white;
+}
+button:focus {
+  background-color: #2196f3;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+a:focus {
+  color: white;
+  color: #2196f3;
+}
+a:hover {
+  color: white;
+  color: #2196f3;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+ul {
+  list-style-type: none;
+}
+.ulclass1 {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
